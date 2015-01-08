@@ -1,0 +1,7 @@
+{
+  "name": "mpc",
+  "displayName": "Music Player Daemon Client",
+  "description": "Control MPD via Spotlight",
+  "examples": ["play", "stop", "play all helmet betty"],
+  "categories": ["Media"]
+}
